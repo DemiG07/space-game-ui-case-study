@@ -31,7 +31,7 @@ A mobile sci-fi game UI concept inspired by games like *ExoMiner*. This case stu
 
 ## 🖼 Screenshots
 
-![HUD Preview](assets/hud-screen.png)  
+![HUD Preview](C:\Users\DemiG\OneDrive\Desktop\Portfolio\Astral\space-game-ui-case-study\assets/hud-screen.png)  
 *In-game HUD layout showing resources, controls, and player progress.*
 
 ![Menu Wireframe](assets/inventory-screen.png)  
