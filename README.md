@@ -31,16 +31,16 @@ A mobile sci-fi game UI concept inspired by games like *ExoMiner*. This case stu
 
 ## 🖼 Screenshots
 
-![HUD Preview](assets/1x/hud-screen.png)  
+![HUD Preview](space-game-ui-case-study/hud-screen.png)  
 *In-game HUD layout showing resources, controls, and player progress.*
 
-![Menu Wireframe](assets/1x/inventory-screen.png)  
+![Menu Wireframe](space-game-ui-case-study/inventory-screen.png)  
 *Wireframe of upgrade and inventory system for the game.*
 
-![Icon Sheet](assets/1x/icons-sheet.png)  
+![Icon Sheet](space-game-ui-case-study/icons-sheet.png)  
 *Set of sci-fi icons designed for build, inventory, and settings menus.*
 
-![Icon Sheet](assets/1x/start-screen.png)  
+![Icon Sheet](space-game-ui-case-study/start-screen.png)  
 *In-game screen of the starting screen in the game app.*
 
 
