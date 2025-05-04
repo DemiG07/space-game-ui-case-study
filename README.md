@@ -1,4 +1,4 @@
-# 🚀 Space Miner UI – Mobile Game Interface Case Study
+# 🚀 Astral Odessey UI – Mobile Game Interface Case Study
 
 A mobile sci-fi game UI concept inspired by games like *ExoMiner*. This case study demonstrates my approach to designing clean, futuristic interfaces for mobile gameplay — focusing on HUD, menus, and iconography optimized for touch.
 
